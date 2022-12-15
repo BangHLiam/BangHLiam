@@ -13,7 +13,15 @@ I interested in Back-end developer and Fullstack developer.
 - C++
 - Java
 - React
+- MySQL
 
+### Project
+>Keep fruit Game by Java  ->> https://github.com/BangHLiam/MiniProject <br>
+>Furniture Shop by HTML CSS Javascript PHP MySQL ->> https://github.com/BangHLiam/FurnitureShop_MinProject <br>
+
+## You can check all of my work on my Github
+
+Thank you 💞️ 
 <!---
 BangHLiam/BangHLiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
