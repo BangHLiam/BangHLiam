@@ -18,7 +18,7 @@ Now I'm looking for company in Thailand to be internship. <br>
 >Keep fruit Game by Java  ->> https://github.com/BangHLiam/MiniProject <br>
 >Furniture Shop by HTML CSS Javascript PHP MySQL ->> https://github.com/BangHLiam/FurnitureShop_MinProject <br>
 
-## You can check all of my work on my Github (Except Kaggle Compititive)
+## You can check all of my work on my Github (Except Kaggle's Compititive)
 
 Thank you 💞️ 
 <!---
